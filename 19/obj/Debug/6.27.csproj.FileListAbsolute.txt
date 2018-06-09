@@ -1,0 +1,12 @@
+D:\Programing\Graph\19\bin\Debug\19.exe.config
+D:\Programing\Graph\19\bin\Debug\19.exe
+D:\Programing\Graph\19\bin\Debug\19.pdb
+D:\Programing\Graph\19\bin\Debug\IntGraph.dll
+D:\Programing\Graph\19\bin\Debug\IntGraph.pdb
+D:\Programing\Graph\19\obj\Debug\6.27.csprojResolveAssemblyReference.cache
+D:\Programing\Graph\19\obj\Debug\_19.PairForm.resources
+D:\Programing\Graph\19\obj\Debug\_19.Properties.Resources.resources
+D:\Programing\Graph\19\obj\Debug\6.27.csproj.GenerateResource.Cache
+D:\Programing\Graph\19\obj\Debug\6.27.csproj.CoreCompileInputs.cache
+D:\Programing\Graph\19\obj\Debug\19.exe
+D:\Programing\Graph\19\obj\Debug\19.pdb

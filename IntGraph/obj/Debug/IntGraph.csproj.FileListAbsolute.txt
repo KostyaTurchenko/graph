@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\people\people\TovmasanA\sem2\Att3_27\IntGraph\bin\Debug\IntGraph.dll
+C:\Users\sidad\Desktop\people\people\TovmasanA\sem2\Att3_27\IntGraph\bin\Debug\IntGraph.pdb
+C:\Users\sidad\Desktop\people\people\TovmasanA\sem2\Att3_27\IntGraph\obj\Debug\IntGraph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\TovmasanA\sem2\Att3_27\IntGraph\obj\Debug\IntGraph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\TovmasanA\sem2\Att3_27\IntGraph\obj\Debug\IntGraph.dll
+C:\Users\sidad\Desktop\people\people\TovmasanA\sem2\Att3_27\IntGraph\obj\Debug\IntGraph.pdb
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Graph\IntGraph\bin\Debug\IntGraph.dll
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Graph\IntGraph\bin\Debug\IntGraph.pdb
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Graph\IntGraph\obj\Debug\IntGraph.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Graph\IntGraph\obj\Debug\IntGraph.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Graph\IntGraph\obj\Debug\IntGraph.dll
+C:\Users\sidad\Desktop\people\people\TyrchenkoK\Sem2\Graph\IntGraph\obj\Debug\IntGraph.pdb

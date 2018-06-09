@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntGraph", "IntGraph\IntGraph.csproj", "{F216AD76-1153-4D62-B35D-8196A751E491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.27", "19\6.27.csproj", "{6E994CDE-D285-43A3-94F8-06D54F34DE09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F216AD76-1153-4D62-B35D-8196A751E491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F216AD76-1153-4D62-B35D-8196A751E491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F216AD76-1153-4D62-B35D-8196A751E491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F216AD76-1153-4D62-B35D-8196A751E491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E994CDE-D285-43A3-94F8-06D54F34DE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E994CDE-D285-43A3-94F8-06D54F34DE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E994CDE-D285-43A3-94F8-06D54F34DE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E994CDE-D285-43A3-94F8-06D54F34DE09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684C9AA4-0B0B-4B4F-B8ED-85D874436A19}
+	EndGlobalSection
+EndGlobal
